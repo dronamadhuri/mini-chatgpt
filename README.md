@@ -6,9 +6,6 @@ Here is your **README.md in proper “write mode” (clean, ready to paste direc
 # 💬 Mini ChatGPT Clone
 
 A simple ChatGPT-style chatbot built using **Streamlit** and **Google Gemini API (1.5 Flash)**.
-
-Developed by **dronamadhuri**
-
 ---
 
 ## 🚀 Features
@@ -136,15 +133,3 @@ http://localhost:8501
 * Voice input/output chatbot
 
 ---
-
-```
-
----
-
-If you want next step, I can also make:
-👉 :contentReference[oaicite:0]{index=0}  
-👉 :contentReference[oaicite:1]{index=1}  
-👉 :contentReference[oaicite:2]{index=2}
-
-Just tell me 👍
-```
